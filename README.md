@@ -49,16 +49,9 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
           <img src="https://github.com/bolzanMGB.png?size=120" width="120px;" alt="Othavio Araujo Bolzan"/>
         </a>
         <br />
-        <b>Othavio Araujo Bolzan</b>
+        <b>Othavio Bolzan</b>
       </td>
     </tr>
   </tbody>
 </table>
-
-
-| Nome | GitHub |
-|------|-----------------------------|
-| Rafael Schadt | https://github.com/RafaelSchadt |
-| Othavio Bolzan |  https://github.com/bolzanMGB |
-
 
