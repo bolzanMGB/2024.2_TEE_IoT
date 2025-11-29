@@ -6,14 +6,14 @@
 **Curso:** Engenharia de Software / Engenharia Eletrônica  
 
 
-## 1- Descrição
+## 1. Descrição
 
 Este projeto foi desenvolvido como parte da disciplina **Tópicos Especiais em Eletrônica**, com foco em aplicações práticas da **Internet das Coisas (IoT)**.  
 O objetivo principal foi explorar conceitos e tecnologias emergentes no universo da IoT, aliando teoria e prática através do desenvolvimento de um protótipo funcional.
 
 
 
-## 2- Tecnologias e Componentes Utilizados
+## 2. Tecnologias e Componentes Utilizados
 
 - Sensores e atuadores IoT (ex: Sensor Óptico)
 - Microcontrolador (ESP32, Arduino Uno, Raspberry Pi)
@@ -22,7 +22,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 
 
-## Funcionalidades
+## 3. Funcionalidades
 
 - Leitura de sensores em tempo real
 - Controle remoto de dispositivos
@@ -32,7 +32,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 
 
-## Desenvolvedores
+## 4. Desenvolvedores
 
 | Nome | GitHub |
 |------|-----------------------------|
@@ -40,4 +40,3 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 | Othavio Bolzan |  (https://github.com/bolzanMGB) |
 
 
----
