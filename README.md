@@ -5,14 +5,13 @@
 **Instituição:** Universidade de Brasília - FGA  
 **Curso:** Engenharia de Software / Engenharia Eletrônica  
 
----
 
 ## 1- Descrição
 
 Este projeto foi desenvolvido como parte da disciplina **Tópicos Especiais em Eletrônica**, com foco em aplicações práticas da **Internet das Coisas (IoT)**.  
 O objetivo principal foi explorar conceitos e tecnologias emergentes no universo da IoT, aliando teoria e prática através do desenvolvimento de um protótipo funcional.
 
----
+
 
 ## 2- Tecnologias e Componentes Utilizados
 
@@ -21,7 +20,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 - Protocolo MQTT / HTTP
 - Linguagens: Python
 
----
+
 
 ## Funcionalidades
 
@@ -31,7 +30,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 - Interface amigável para visualização dos dados
 - Notificações ou automações
 
----
+
 
 ## Desenvolvedores
 
