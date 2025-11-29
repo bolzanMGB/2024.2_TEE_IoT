@@ -1,4 +1,4 @@
-# 🌐 Projeto IoT - Internet das Coisas
+# Servidor Embarcado IoT - Internet das Coisas
 
 **Disciplina:** Tópicos Especiais em Eletrônica (FGA0261)  
 **Período:** Segundo semestre de 2024  
@@ -7,23 +7,23 @@
 
 ---
 
-## 📋 Descrição
+## 1- Descrição
 
 Este projeto foi desenvolvido como parte da disciplina **Tópicos Especiais em Eletrônica**, com foco em aplicações práticas da **Internet das Coisas (IoT)**.  
 O objetivo principal foi explorar conceitos e tecnologias emergentes no universo da IoT, aliando teoria e prática através do desenvolvimento de um protótipo funcional.
 
 ---
 
-## 🔧 Tecnologias e Componentes Utilizados
+## 2- Tecnologias e Componentes Utilizados
 
-- 📡 Sensores e atuadores IoT (ex: Sensor Óptico)
-- 🧠 Microcontrolador (ESP32, Arduino Uno, Raspberry Pi)
-- 🌐 Protocolo MQTT / HTTP
-- 💻 Linguagens: Python
+- Sensores e atuadores IoT (ex: Sensor Óptico)
+- Microcontrolador (ESP32, Arduino Uno, Raspberry Pi)
+- Protocolo MQTT / HTTP
+- Linguagens: Python
 
 ---
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 - Leitura de sensores em tempo real
 - Controle remoto de dispositivos
@@ -33,7 +33,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 ---
 
-## 🧑‍💻 Desenvolvedores
+## Desenvolvedores
 
 | Nome | GitHub |
 |------|-----------------------------|
@@ -42,18 +42,3 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 
 ---
-
-
-## 📚 Aprendizados
-
-Durante o desenvolvimento do projeto, a equipe teve contato com:
-
-- Integração de hardware e software
-- Comunicação em rede entre dispositivos
-- Conceitos de automação e sistemas embarcados
-
----
-
-## 📄 Licença
-
-Este projeto é acadêmico e não possui fins lucrativos. Livre para consulta e uso com os devidos créditos.
