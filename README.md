@@ -32,7 +32,29 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 
 
-## Desenvolvedores
+## Equipe
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/RafaelSchadt">
+          <img src="https://github.com/RafaelSchadt.png?size=120" width="120px;" alt="Rafael Schadt"/>
+        </a>
+        <br />
+        <b>Rafael Schadt</b>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/bolzanMGB">
+          <img src="https://github.com/bolzanMGB.png?size=120" width="120px;" alt="Othavio Araujo Bolzan"/>
+        </a>
+        <br />
+        <b>Othavio Araujo Bolzan</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 | Nome | GitHub |
 |------|-----------------------------|
