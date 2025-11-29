@@ -36,7 +36,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 | Nome | GitHub |
 |------|-----------------------------|
-| Rafael Schadt | (https://github.com/RafaelSchadt) |
-| Othavio Bolzan |  (https://github.com/bolzanMGB) |
+| Rafael Schadt | https://github.com/RafaelSchadt |
+| Othavio Bolzan |  https://github.com/bolzanMGB |
 
 
