@@ -32,7 +32,7 @@ O objetivo principal foi explorar conceitos e tecnologias emergentes no universo
 
 
 
-## 4. Desenvolvedores
+## Desenvolvedores
 
 | Nome | GitHub |
 |------|-----------------------------|
